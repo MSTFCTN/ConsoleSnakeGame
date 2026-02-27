@@ -78,7 +78,7 @@ namespace SnakeGame
                 Snake[1] = new Position(2, 14); //Tail
                 Snake[2] = new Position(1, 14); //Tail
 
-                char key = 'd';
+                ConsoleKeyInfo key = new ConsoleKeyInfo();
                 string direction = "right";
 
                 SnakeSettings.SnakeSize = 3;
@@ -109,27 +109,27 @@ namespace SnakeGame
                     while (Console.KeyAvailable)
                     {
                         //This part allows me to retrieve the last key pressed
-                        key = char.ToLower(Console.ReadKey(true).KeyChar);
+                        key = Console.ReadKey(true);
                     }
 
 
-                    if (key == 'w' && direction != "down")
+                    if ((key.Key == ConsoleKey.W || key.Key == ConsoleKey.UpArrow) && direction != "down")
                     {
                         direction = "up";
                     }
-                    else if (key == 'a' && direction != "right")
+                    else if ((key.Key == ConsoleKey.A || key.Key == ConsoleKey.LeftArrow) && direction != "right")
                     {
                         direction = "left";
                     }
-                    else if (key == 's' && direction != "up")
+                    else if ((key.Key == ConsoleKey.S || key.Key == ConsoleKey.DownArrow) && direction != "up")
                     {
                         direction = "down";
                     }
-                    else if (key == 'd' && direction != "left")
+                    else if ((key.Key == ConsoleKey.D || key.Key == ConsoleKey.RightArrow) && direction != "left")
                     {
                         direction = "right";
                     }
-                    else if (key == 'q')
+                    else if (key.Key == ConsoleKey.Q)
                     {
                         Console.Clear();
                         Console.SetCursorPosition(50, 13);
@@ -233,8 +233,8 @@ namespace SnakeGame
 
                             while (Console.KeyAvailable) Console.ReadKey(true); //to clean input buffer
 
-                            key = char.ToLower(Console.ReadKey(true).KeyChar);
-                            if (key == 'r')
+                            key = Console.ReadKey(true);
+                            if (key.Key == ConsoleKey.R)
                             {
                                 restart = true;
                                 if ((SnakeSettings.SnakeSize - 3) >= HighestScore)
