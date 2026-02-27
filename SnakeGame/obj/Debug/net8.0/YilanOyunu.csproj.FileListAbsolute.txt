@@ -1,0 +1,14 @@
+C:\Users\MUSTAFA\Desktop\University\SINIF2_DONEM3\BMB2009_NesneyeYonelikProgramlama\YilanOyunu\YilanOyunu\bin\Debug\net8.0\YilanOyunu.exe
+C:\Users\MUSTAFA\Desktop\University\SINIF2_DONEM3\BMB2009_NesneyeYonelikProgramlama\YilanOyunu\YilanOyunu\bin\Debug\net8.0\YilanOyunu.deps.json
+C:\Users\MUSTAFA\Desktop\University\SINIF2_DONEM3\BMB2009_NesneyeYonelikProgramlama\YilanOyunu\YilanOyunu\bin\Debug\net8.0\YilanOyunu.runtimeconfig.json
+C:\Users\MUSTAFA\Desktop\University\SINIF2_DONEM3\BMB2009_NesneyeYonelikProgramlama\YilanOyunu\YilanOyunu\bin\Debug\net8.0\YilanOyunu.dll
+C:\Users\MUSTAFA\Desktop\University\SINIF2_DONEM3\BMB2009_NesneyeYonelikProgramlama\YilanOyunu\YilanOyunu\bin\Debug\net8.0\YilanOyunu.pdb
+C:\Users\MUSTAFA\Desktop\University\SINIF2_DONEM3\BMB2009_NesneyeYonelikProgramlama\YilanOyunu\YilanOyunu\obj\Debug\net8.0\YilanOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MUSTAFA\Desktop\University\SINIF2_DONEM3\BMB2009_NesneyeYonelikProgramlama\YilanOyunu\YilanOyunu\obj\Debug\net8.0\YilanOyunu.AssemblyInfoInputs.cache
+C:\Users\MUSTAFA\Desktop\University\SINIF2_DONEM3\BMB2009_NesneyeYonelikProgramlama\YilanOyunu\YilanOyunu\obj\Debug\net8.0\YilanOyunu.AssemblyInfo.cs
+C:\Users\MUSTAFA\Desktop\University\SINIF2_DONEM3\BMB2009_NesneyeYonelikProgramlama\YilanOyunu\YilanOyunu\obj\Debug\net8.0\YilanOyunu.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFA\Desktop\University\SINIF2_DONEM3\BMB2009_NesneyeYonelikProgramlama\YilanOyunu\YilanOyunu\obj\Debug\net8.0\YilanOyunu.dll
+C:\Users\MUSTAFA\Desktop\University\SINIF2_DONEM3\BMB2009_NesneyeYonelikProgramlama\YilanOyunu\YilanOyunu\obj\Debug\net8.0\refint\YilanOyunu.dll
+C:\Users\MUSTAFA\Desktop\University\SINIF2_DONEM3\BMB2009_NesneyeYonelikProgramlama\YilanOyunu\YilanOyunu\obj\Debug\net8.0\YilanOyunu.pdb
+C:\Users\MUSTAFA\Desktop\University\SINIF2_DONEM3\BMB2009_NesneyeYonelikProgramlama\YilanOyunu\YilanOyunu\obj\Debug\net8.0\YilanOyunu.genruntimeconfig.cache
+C:\Users\MUSTAFA\Desktop\University\SINIF2_DONEM3\BMB2009_NesneyeYonelikProgramlama\YilanOyunu\YilanOyunu\obj\Debug\net8.0\ref\YilanOyunu.dll
